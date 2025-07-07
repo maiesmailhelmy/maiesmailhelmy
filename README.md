@@ -60,7 +60,7 @@ I'm Mai Elsehet, a passionate 3rd year Computer Science student at the Faculty o
 <strong>I'm currently on an exciting journey of expanding my skills in various fields of technology. Here's what I'm diving into:</strong>
 </br>
 </br>
-<img src="https://img.freepik.com/premium-photo/programmer-woman-coding-computer-coder-girl_1168123-42920.jpg" align="right" height="300em" width="700em" >
+<img src="https://img.freepik.com/premium-photo/programmer-woman-coding-computer-coder-girl_1168123-42920.jpg" align="right" height="300em" width="450em" >
 
 
 ### 📊 *Data Science & Analysis*  
