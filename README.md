@@ -1,12 +1,18 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B+I'm+Mai+Elsehet;Student+at+FCAI-CU+%26+Web+%26+AI+Enthusiast;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B+I'm+Mai+Elsehet;Student+at+FCAI-CU;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </h1>
 
+<!-- 🖼️ Floating Image -->
 <p align="center">
-  <img src="https://as1.ftcdn.net/v2/jpg/06/16/92/42/1000_F_616924255_LXxYKF2PqnxIu80M7nLhCD2iwRPtZrHv.jpg" width="100%"/>
+  <img src="https://as1.ftcdn.net/v2/jpg/06/16/92/42/1000_F_616924255_LXxYKF2PqnxIu80M7nLhCD2iwRPtZrHv.jpg" width="100%" style="animation: float 3s ease-in-out infinite;" />
 </p>
 
+<!-- ✨ Animated Quote -->
+<h3 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00FF99&center=true&vCenter=true&width=800&lines=✨+%22You+will+only+fail+when+you+stop+doing+and+trying.%22+✨" alt="Motivational Quote" />
+</h3>
 
+---
 
 ## 👩‍💻 About Me
 
@@ -14,6 +20,7 @@
 - 💡 Passionate about **Frontend Development** and **Artificial Intelligence**
 - 🚀 Exploring the integration of AI in real-world applications
 
+---
 
 ## 💻 Tech Stack
 
@@ -28,19 +35,19 @@
   <img src="https://img.shields.io/badge/Machine%20Learning-009688?style=for-the-badge"/>
 </p>
 
-
+---
 
 ## 🛠️ Skills & Tools
 
-- **Frontend:** HTML5, CSS3, JavaScript, React, TailwindCSS (learning)
+- **Frontend:** HTML5, CSS3, JavaScript, React
 - **Backend:** PHP, Python (Flask)
 - **Programming Languages:** C++, Python, JavaScript
-- **AI/ML Tools:** Python, OpenCV (learning), Scikit-learn
-- **Dev Tools:** Git, GitHub, VS Code
+- **AI/ML Tools:** Python, Machine Learning (learning)
+- **Dev Tools:** Git, GitHub
 - **Soft Skills:** Teamwork, time management, creative UI design
 - **Languages:** Arabic (native), English
 
-
+---
 
 ## 🚀 Projects & Learning
 
@@ -48,7 +55,7 @@
 - 🤖 Exploring AI models and how to embed them into UI interfaces
 - 🧠 Learning machine learning algorithms and Python libraries
 
-
+---
 
 ## 📈 GitHub Stats
 
@@ -58,7 +65,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaiElsehet&layout=compact&theme=algolia"/>
 </p>
 
-
+---
 
 ## 🌐 Connect With Me
 
@@ -67,7 +74,7 @@
   <a href="mailto:maielsehet@gmail.com"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="30" width="40"/></a>
 </p>
 
-
+---
 
 ## ✨ Fun Fact
 
