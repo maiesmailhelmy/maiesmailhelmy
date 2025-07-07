@@ -1,81 +1,85 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B+I'm+Mai+Elsehet;Student+at+FCAI;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B+I'm+Mai+Elsehet;Student+at+FCAI-CU+%26+Web+%26+AI+Enthusiast;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </h1>
 
-
-
----
-
-# Hi there 👋
-
-I'm **Mai Elsehet** — a 3rd year student at **FCAI, Cairo University**.  
-Passionate about **Web Development** and **Artificial Intelligence** 🤖✨
+<p align="center">
+  <img src="https://png.pngtree.com/thumb_back/fh260/background/20230408/pngtree-robot-blue-light-technology-artificial-intelligence-future-robot-image_2199774.jpg" width="100%"/>
+</p>
 
 ---
 
-## 💡 About Me
+## 👩‍💻 About Me
 
-- 🌱 Currently studying Computer Science at FCAI, Cairo University.
-- ⚡ Enthusiastic about building modern, accessible web applications.
-- 🎯 Interested in integrating AI solutions into real-world projects.
+- 🎓 3rd year Computer Science student at **FCAI, Cairo University**
+- 💡 Passionate about **Frontend Development** and **Artificial Intelligence**
+- 🚀 Exploring the integration of AI in real-world applications
 
 ---
 
 ## 💻 Tech Stack
 
-I enjoy working with:
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-009688?style=for-the-badge"/>
+</p>
 
 ---
 
-## 🛠️ Skills
+## 🛠️ Skills & Tools
 
-- **Front-end:** HTML5, CSS3, JavaScript, React
-- **Back-end:** Python, PHP (learning)
-- **AI/ML:** Machine Learning (learning), Python 
+- **Frontend:** HTML5, CSS3, JavaScript, React, TailwindCSS (learning)
+- **Backend:** PHP, Python (Flask)
 - **Programming Languages:** C++, Python, JavaScript
-- **Tools & Platforms:** Git & GitHub
-- **Soft Skills:** Problem-solving, teamwork, time management, creative UI design
-- **Languages:** English, Arabic (native)
+- **AI/ML Tools:** Python, OpenCV (learning), Scikit-learn
+- **Dev Tools:** Git, GitHub, VS Code
+- **Soft Skills:** Teamwork, time management, creative UI design
+- **Languages:** Arabic (native), English
 
 ---
 
-## 🚀 What I'm Working On
+## 🚀 Projects & Learning
 
-- Developing full-stack websites (frontend & backend)
-- Exploring AI integration in web projects
-
----
-
-## 📚 Currently Learning
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-009688?style=for-the-badge)
+- 🎨 Building a portfolio website with React + Tailwind
+- 🤖 Exploring AI models and how to embed them into UI interfaces
+- 🧠 Learning machine learning algorithms and Python libraries
 
 ---
 
-## 🤝 I’m Looking for Help With
+## 📈 GitHub Stats
 
-- Integrating AI models into real-world web development projects
-- Best practices for building accessible, high-performance UIs
-
----
-
-## 📫 Let's Connect
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mai-elsehet-2046b4327)
-[![Gmail](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maielsehet@gmail.com)
+<p align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MaiElsehet&show_icons=true&theme=algolia"/>
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=MaiElsehet&theme=algolia"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaiElsehet&layout=compact&theme=algolia"/>
+</p>
 
 ---
 
-## ⚡ Fun Fact
+## 🌐 Connect With Me
 
-I love designing interactive UIs and combining creativity with logic 🎨🧠
+<p align="left">
+  <a href="https://www.linkedin.com/in/mai-elsehet-2046b4327" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40"/></a>
+  <a href="mailto:maielsehet@gmail.com"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="30" width="40"/></a>
+</p>
 
 ---
+
+## ✨ Fun Fact
+
+I love combining creativity with logic — designing beautiful UIs while solving real-world problems with AI. 🎨💡
+
+---
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+</p>
+
+<!---
+MaiElsehet/MaiElsehet is a ✨ special ✨ repository because its `README.md` appears on your GitHub profile.
+--->
