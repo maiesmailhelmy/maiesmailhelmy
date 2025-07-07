@@ -3,10 +3,10 @@
 </h1>
 
 <p align="center">
-  <img src="https://png.pngtree.com/thumb_back/fh260/background/20230408/pngtree-robot-blue-light-technology-artificial-intelligence-future-robot-image_2199774.jpg" width="100%"/>
+  <img src="https://as1.ftcdn.net/v2/jpg/06/16/92/42/1000_F_616924255_LXxYKF2PqnxIu80M7nLhCD2iwRPtZrHv.jpg" width="100%"/>
 </p>
 
----
+
 
 ## 👩‍💻 About Me
 
@@ -14,7 +14,6 @@
 - 💡 Passionate about **Frontend Development** and **Artificial Intelligence**
 - 🚀 Exploring the integration of AI in real-world applications
 
----
 
 ## 💻 Tech Stack
 
@@ -29,7 +28,7 @@
   <img src="https://img.shields.io/badge/Machine%20Learning-009688?style=for-the-badge"/>
 </p>
 
----
+
 
 ## 🛠️ Skills & Tools
 
@@ -41,7 +40,7 @@
 - **Soft Skills:** Teamwork, time management, creative UI design
 - **Languages:** Arabic (native), English
 
----
+
 
 ## 🚀 Projects & Learning
 
@@ -49,7 +48,7 @@
 - 🤖 Exploring AI models and how to embed them into UI interfaces
 - 🧠 Learning machine learning algorithms and Python libraries
 
----
+
 
 ## 📈 GitHub Stats
 
@@ -59,7 +58,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaiElsehet&layout=compact&theme=algolia"/>
 </p>
 
----
+
 
 ## 🌐 Connect With Me
 
@@ -68,7 +67,7 @@
   <a href="mailto:maielsehet@gmail.com"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="30" width="40"/></a>
 </p>
 
----
+
 
 ## ✨ Fun Fact
 
