@@ -101,7 +101,7 @@ I'm Mai Elsehet, a passionate 3rd year Computer Science student at the Faculty o
 ## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30px"> GitHub Stats
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MaiElsehet&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=maiesmailhelmy&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=maiesmailhelmyt&theme=radical"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiesmailhelmy&layout=compact&langs_count=7&theme=radical"/>
 </div>
