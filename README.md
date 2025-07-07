@@ -1,7 +1,7 @@
 # Hi there 👋
 
 I'm Mai Elsehet — a 3rd year student at **FCAI, Cairo University**.  
-I'm passionate about **Frontend Development** and **Artificial Intelligence** 🤖✨
+I'm passionate about **Web Development** and **Artificial Intelligence** 🤖✨
 
 ---
 
@@ -12,27 +12,29 @@ I'm passionate about **Frontend Development** and **Artificial Intelligence** �
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
 
 ---
 
 ### 🚧 I’m working on
 
-- Portfolio website using React + Tailwind CSS
-- Small AI tools to automate daily tasks
+- some websites containing front and backend 
+  
 
 ---
 
 ### 📚 I’m currently learning
 
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-009688?style=for-the-badge)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
 
 ---
 
 ### 🤔 I’m looking for help with
 
-- Integrating **AI models** into real-world **frontend projects**
+- Integrating **AI models** into real-world **Web Development projects**
 - Best practices in building **accessible and fast UIs**
 
 ---
