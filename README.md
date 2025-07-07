@@ -8,11 +8,9 @@
 </p>
 
 <!-- ✨ Animated Quote -->
-<h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00FF99&center=true&vCenter=true&width=800&lines=✨+%22You+will+only+fail+when+you+stop+doing+and+trying.%22+✨" alt="Motivational Quote" />
-</h3>
 
----
+
+
 
 ## 👩‍💻 About Me
 
@@ -20,7 +18,7 @@
 - 💡 Passionate about **Frontend Development** and **Artificial Intelligence**
 - 🚀 Exploring the integration of AI in real-world applications
 
----
+
 
 ## 💻 Tech Stack
 
@@ -35,7 +33,7 @@
   <img src="https://img.shields.io/badge/Machine%20Learning-009688?style=for-the-badge"/>
 </p>
 
----
+
 
 ## 🛠️ Skills & Tools
 
@@ -47,7 +45,7 @@
 - **Soft Skills:** Teamwork, time management, creative UI design
 - **Languages:** Arabic (native), English
 
----
+
 
 ## 🚀 Projects & Learning
 
@@ -55,7 +53,7 @@
 - 🤖 Exploring AI models and how to embed them into UI interfaces
 - 🧠 Learning machine learning algorithms and Python libraries
 
----
+
 
 ## 📈 GitHub Stats
 
@@ -65,7 +63,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MaiElsehet&layout=compact&theme=algolia"/>
 </p>
 
----
+
 
 ## 🌐 Connect With Me
 
@@ -74,7 +72,7 @@
   <a href="mailto:maielsehet@gmail.com"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="Gmail" height="30" width="40"/></a>
 </p>
 
----
+
 
 ## ✨ Fun Fact
 
