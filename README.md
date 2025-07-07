@@ -91,7 +91,7 @@ I'm Mai Elsehet, a passionate 3rd year Computer Science student at the Faculty o
 </br>
 </br>
 
-# <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="20"> Statistics
+ <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="20"> Statistics
 </br>
 <p align="center">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=maiesmailhelmy&show_icons=true&locale=en&theme=algolia" alt="My GitHub Stats" />
@@ -116,10 +116,9 @@ I'm Mai Elsehet, a passionate 3rd year Computer Science student at the Faculty o
 <h1 align="left">🌐Connect with me</h1>
 <p align="left">
 <a href="https://www.linkedin.com/linkedin.com/in/mai-elsehet-2046b4327/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="youssef amgad elkhatib" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/youssefamgadelkhatib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="youssef amgad elkhatib" height="30" width="40" /></a>
-<a href="https://www.facebook.com/youssef.amgad.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="youssef elkhatib" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@YoussefAmgadElkhatib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youssef amgad elkhatib" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/0xkrypto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="0xkrypto" height="30" width="40" /></a>
+<a href="https://www.facebook.com/share/1B2hfbhmK5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="youssef elkhatib" height="30" width="40" /></a>
+<a href="https://youtube.com/@ayaelsehet?si=89aVRrvm6bHVvlFG" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youssef amgad elkhatib" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/mai_esmail_16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="0xkrypto" height="30" width="40" /></a>
 </p>
 </br></br>
 
