@@ -60,7 +60,7 @@ I'm Mai Elsehet, a passionate 3rd year Computer Science student at the Faculty o
 <strong>I'm currently on an exciting journey of expanding my skills in various fields of technology. Here's what I'm diving into:</strong>
 </br>
 </br>
-<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" align="right" height="300em" width="200em" >
+<img src="https://www.bing.com/images/search?view=detailV2&ccid=ohK4FzdH&id=F0281AB72EDA57B0FA4948A9A32CE07BBF950EFB&thid=OIP.ohK4FzdHd7H5Em8W0ve-GQHaE7&mediaurl=https%3a%2f%2fimg.freepik.com%2fpremium-photo%2fprogrammer-woman-coding-computer-coder-girl_1168123-42920.jpg&cdnurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR.a212b817374777b1f9126f16d2f7be19%3frik%3d%252bw6Vv3vgLKOpSA%26pid%3dImgRaw%26r%3d0&exph=417&expw=626&q=coder+gril&simid=608048318054815888&FORM=IRPRST&ck=998BCF6E2B801C17B9A9E9387045C0E8&selectedIndex=1&itb=0" align="right" height="300em" width="200em" >
 
 
 ### 📊 *Data Science & Analysis*  
@@ -115,7 +115,7 @@ I'm Mai Elsehet, a passionate 3rd year Computer Science student at the Faculty o
 
 <h1 align="left">🌐Connect with me</h1>
 <p align="left">
-<a href="https://www.linkedin.com/linkedin.com/in/mai-elsehet-2046b4327/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="youssef amgad elkhatib" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mai-elsehet-2046b4327/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="youssef amgad elkhatib" height="30" width="40" /></a>
 <a href="https://www.facebook.com/share/1B2hfbhmK5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="youssef elkhatib" height="30" width="40" /></a>
 <a href="https://youtube.com/@ayaelsehet?si=89aVRrvm6bHVvlFG" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youssef amgad elkhatib" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/mai_esmail_16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="0xkrypto" height="30" width="40" /></a>
