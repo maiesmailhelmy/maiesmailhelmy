@@ -55,7 +55,7 @@ I'm Mai Elsehet, a passionate 3rd year Computer Science student at the Faculty o
 >
 </p>
 <br>
-# 🚀 Learning Journey
+ 🚀 Learning Journey
 
 <strong>I'm currently on an exciting journey of expanding my skills in various fields of technology. Here's what I'm diving into:</strong>
 </br>
