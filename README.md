@@ -54,75 +54,75 @@ I'm Mai Elsehet, a passionate 3rd year Computer Science student at the Faculty o
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 >
 </p>
+<br>
+# 🚀 Learning Journey
+
+<strong>I'm currently on an exciting journey of expanding my skills in various fields of technology. Here's what I'm diving into:</strong>
+</br>
+</br>
+<img src="https://user-images.githubusercontent.com/74038190/212749447-bfb7e725-6987-49d9-ae85-2015e3e7cc41.gif" align="right" height="300em" width="200em" >
+
+
+### 📊 *Data Science & Analysis*  
+🔹 Python 🐍 | Pandas 🐼 | NumPy 🔢 | Matplotlib 📉 | Seaborn 🌊  
+
+### 🗄 *Databases & SQL*  
+🔹 Microsoft SQL Server 🏢 | Database Management 📂 | SQL Queries ⚡  
+
+### 🎨 *Frontend Web Development*  
+🔹 HTML5 🌐 | CSS3 💅 | JavaScript ⚡  
+
+### 🛠 Upcoming Learning Goals 
+
+🔹 Advanced AI & ML 🤖 | Algorithms & Data Structures ⚙ | Real-world Projects 💼
+
+### 🔭 On the Horizon
+
+🔹 Portfolio Project 🗃 | FinTrack Project 💰 | Backend & APIs 📦 | Board Games Project 🎲
+
 
 <br>
+<br>
+<div>
 
-## <img src="https://media.giphy.com/media/Y4bzv6DYbYzy8jDnoW/giphy.gif" width="30px"> Projects & Learning Journey
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <h3 align="center">🎨 Portfolio Project</h3>
-        <div align="center">  
-          <img height="150" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif">
-          <p>Building a modern portfolio with React & Tailwind CSS</p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">🤖 AI Exploration</h3>
-        <div align="center">
-          <img height="150" src="https://media.giphy.com/media/3o7TKSjRrfIPjeiVyM/giphy.gif">
-          <p>Exploring AI model integration in web applications</p>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <h3 align="center">🧠 ML Learning</h3>
-        <div align="center">
-          <img height="150" src="https://media.giphy.com/media/3o6Zt6ML6BklcajjsA/giphy.gif">
-          <p>Studying machine learning algorithms and applications</p>
-        </div>
-      </td>
-      <td width="50%">
-        <h3 align="center">💻 Web Dev</h3>
-        <div align="center">
-          <img height="150" src="https://media.giphy.com/media/S8ZHY5Y9ULhSAGPg50/giphy.gif">
-          <p>Developing responsive web applications</p>
-        </div>
-      </td>
-    </tr>
-  </table>
+   
+<h2 align="center">✨You Will Only Fail When You Stop Doing✨</h2>
 </div>
+</br>
+</br>
 
-<br>
-
-## <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="30px"> GitHub Stats
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=maiesmailhelmy&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?username=maiesmailhelmyt&theme=radical"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiesmailhelmy&layout=compact&langs_count=7&theme=radical"/>
-</div>
-
-<br>
-
-## <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="30px"> Connect With Me
-
+# <img src="https://media4.giphy.com/media/MIGbtLZoVjbl0bYbAd/giphy.gif?cid=ecf05e472t2h0i8d7dcjaoau9iqtchhr899hxmpxzzgc7lyw&rid=giphy.gif" width="20"> Statistics
+</br>
 <p align="center">
-  <a href="https://www.linkedin.com/in/mai-elsehet-2046b4327" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:maielsehet@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://leetcode.com/yourusername/" target="_blank">
-    <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
-  </a>
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=maiesmailhelmy&show_icons=true&locale=en&theme=algolia" alt="My GitHub Stats" />
+    <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=maiesmailhelmy&&theme=algolia" alt="Streak Stats" />
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maiesmailhelmy&&layout=compact&theme=algolia" alt="Top Languages" />    
 </p>
 
-<br>
+<div align="center">
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+</div>
+</br>
+<p align="center">
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=maiesmailhelmy&&theme=algolia"  height="160em" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=maiesmailhelmy&&theme=algolia" height="160em" />
+  </br>
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=maiesmailhelmy&&theme=algolia" height="160em" />
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=maiesmailhelmy&&theme=algolia" height="157em" /><br>
+</p>
+
+
+
+<h1 align="left">🌐Connect with me</h1>
+<p align="left">
+<a href="https://www.linkedin.com/linkedin.com/in/mai-elsehet-2046b4327/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="youssef amgad elkhatib" height="30" width="40" /></a>
+<a href="https://www.kaggle.com/youssefamgadelkhatib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="youssef amgad elkhatib" height="30" width="40" /></a>
+<a href="https://www.facebook.com/youssef.amgad.5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="youssef elkhatib" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@YoussefAmgadElkhatib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youssef amgad elkhatib" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/0xkrypto" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="0xkrypto" height="30" width="40" /></a>
+</p>
+</br></br>
+
 
 ## <img src="https://media.giphy.com/media/3ohs4kI2X9r7O8ZtoA/giphy.gif" width="30px"> Fun Facts
 
