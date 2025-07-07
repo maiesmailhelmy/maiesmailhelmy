@@ -1,4 +1,4 @@
-<h1 align="center">
+![image](https://github.com/user-attachments/assets/8b051ac4-ec12-493a-9660-d55f7a4a2817)<h1 align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B+I'm+Mai+Elsehet;Student+at+FCAI-CU;Welcome+to+my+GitHub+Profile!" alt="Typing SVG" />
 </h1>
 
@@ -53,6 +53,15 @@
 - 🤖 Exploring AI models and how to embed them into UI interfaces
 - 🧠 Learning machine learning algorithms and Python libraries
 
+<br>
+<br>
+<div>
+  
+   
+<h2 align="center">✨YOU Only fail When you stop trying , always do✨  </h2>
+</div>
+</br>
+</br>
 
 
 ## 📈 GitHub Stats
