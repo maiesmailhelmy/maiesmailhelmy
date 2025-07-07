@@ -4,7 +4,7 @@
 
 <!-- 🖼️ Floating Image -->
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcXJ4eW1nZzVpY3F0a3V5eWl2dGx5bHl0ZzJ6eXJ5cG9qZ2V6dWt6biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" style="border-radius: 10px;" />
+  <img src="https://as1.ftcdn.net/v2/jpg/06/16/92/42/1000_F_616924255_LXxYKF2PqnxIu80M7nLhCD2iwRPtZrHv.jpg" width="100%" style="border-radius: 10px;" />
 </p>
 
 <br>
